@@ -1,0 +1,31 @@
+#S{
+    width:40% ;
+    margin: 30px auto;
+    border: 2px solid white;
+    padding-left: 20%;
+    background-image: url("imgs/C.jpeg");
+    background-attachment: fixed;
+    background-size: 700px;
+}
+.z{
+    width: 400px;
+    height: 30px;
+    padding: 8px 12px;
+    font-size: 25px;
+}
+.r{
+    padding:120px;
+    color:white;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px;
+}
+.Q{
+    border: 2PX solid wheat;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    background-color:#1877f2;
+    text-shadow: 2px 2px 5px;
+}
